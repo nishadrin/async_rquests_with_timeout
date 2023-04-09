@@ -73,7 +73,7 @@ class RequestStopper:
 
 class ReportRequest(RequestStopper):
     """
-    Асбтрактный метод создания запросов по API на сайт maximum-auto.ru.
+    Асбтрактный метод создания запросов по API на сайт.
     Опрос происходит согласно количеству максимальных запросов с задержкой.
     """
     delay_time: float = 0  # seconds
