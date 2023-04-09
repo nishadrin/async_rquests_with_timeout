@@ -1,3 +1,7 @@
+#project ignore files
+report_request/results.csv
+report_request/secrets.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
